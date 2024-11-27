@@ -2,6 +2,7 @@ body {
     background: #2c2c2c;
 }
 .logo_img {
+    align-items: center;
     width: 100px;
     height: 100px;
 }
